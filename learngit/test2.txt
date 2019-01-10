@@ -1,2 +1,0 @@
-hi,world!
-This is my first test!
